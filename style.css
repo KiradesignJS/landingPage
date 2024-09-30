@@ -6,3 +6,8 @@ p {
     color: blue;
     font-weight: 400;
 }
+
+h1 {
+    color: blueviolet;
+    font: 800;
+}
