@@ -11,3 +11,7 @@ h1 {
     color: rgb(131, 57, 201);
     font: 600;
 }
+
+li {
+    color: darkcyan;
+}
